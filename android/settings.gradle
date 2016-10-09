@@ -1,0 +1,3 @@
+rootProject.name = 'dentakku'
+
+include ':app'
