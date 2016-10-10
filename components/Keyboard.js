@@ -67,6 +67,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   keyText: {
+    backgroundColor: '#3B3738',
     color: 'whitesmoke',
     textAlign: 'center',
     fontSize: 40,
@@ -74,6 +75,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   keyLine: {
+    backgroundColor: '#3B3738',
     flex: 1,
     flexDirection: 'row',
   },
